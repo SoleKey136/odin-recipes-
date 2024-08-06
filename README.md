@@ -1,2 +1,2 @@
 Make a webpage for recipes using HTML.
-Abilities Demonstrated were HTML,Git,github, and vs code used.
+Abilities Demonstrated were HTML,Git,github, and vs code usage.
